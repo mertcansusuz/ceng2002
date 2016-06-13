@@ -17,6 +17,6 @@ obj_var = {x: 1, y:2};
 str_var = "abc"
 
 /* console.log(int_var.toString(), bool_var.toString(), arr_var.toString(), obj_var.toString());
-f(int_var, bool_var, arr_var, obj_var);
+f(int_var, bool_var, arr_var, obj_var, str_var);
 console.log(int_var.toString(), bool_var.toString(), arr_var.toString(), obj_var.toString());
 */
